@@ -1,5 +1,12 @@
-### Hi there 👋
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Laex&theme=github_dark&show_icons=true&hide_title=true&hide_border=true" height=150><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laex&langs_count=6&layout=compact&theme=github_dark&hide_title=true&hide_border=true" height=150>
+<br><br><br><br>
+</div>
+ <div style="display: inline_block"><br>
+<hr>
+</div>
+</br>  
+
+![](https://komarev.com/ghpvc/?username=Laex&style=flat-square)
 
 <!--
 **Laex/Laex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
