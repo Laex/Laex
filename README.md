@@ -12,19 +12,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laex&theme=dark&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Laex&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  &nbsp;&nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Laex&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laex&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
 <div align="center">
   <table border="0" width="100%" style="max-width: 900px;">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Laex&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Laex&theme=dark&hide_border=false" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laex&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laex&theme=dark" width="100%" />
       </td>
       <td align="center" width="50%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Laex&theme=dark&utcOffset=4" width="100%" />
