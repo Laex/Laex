@@ -13,35 +13,22 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laex&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laex&theme=dark" />
   &nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Laex&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laex&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laex&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-<div align="center">
-  <table border="0" width="100%" style="max-width: 900px;">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laex&theme=dark" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Laex&theme=dark&utcOffset=4" width="100%" />
-      </td>
-    </tr>
-     <tr>
-      <td align="center" width="50%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laex&theme=dark" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Laex&theme=dark" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Laex&theme=dark&utcOffset=4" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laex&theme=dark" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Laex&theme=dark" />
+</p>
 
 ## Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-26A69A?logo=telegram&logoColor=white)](https://t.me/LaentirValetov)
