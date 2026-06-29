@@ -42,9 +42,8 @@
 </div>
 
 ## Connect with me
-[![Telegram](https://img.shields.io/badge/Telegram-26A69A?logo=telegram&logoColor=white)](https://t.me/Laex)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Laex@bk.ru)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/Laex)
+[![Telegram](https://img.shields.io/badge/Telegram-26A69A?logo=telegram&logoColor=white)](https://t.me/LaentirValetov)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laex@bk.ru)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Laex&icon=0&color=0)](https://visitcount.itsvg.in)
